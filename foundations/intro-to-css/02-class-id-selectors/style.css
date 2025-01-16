@@ -1,0 +1,23 @@
+/* styles.css */
+
+.odd {
+    background-color: rgb(218, 118, 135);
+    font-family: Verdana, DejaVu sans, sans-serif;
+}
+
+#ID1 {
+    color: blue;
+    font-size: 36px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.odd.special {
+    font-size: 24px;
+}
+
+#ID2 {
+    background-color: rgba(142, 182, 86, 0.757);
+    font-size: 24px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
